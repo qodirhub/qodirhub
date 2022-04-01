@@ -1,6 +1,7 @@
 <!-- Please remove this file from your project -->
 <template>
   <div class="container overflow-auto mt-5">
+    
     <b-table
       id="my-table"
       :items="items"
